@@ -1,0 +1,7 @@
+Sarah,1
+Ryan,0
+Adam,0
+Amy,0
+Jack,0
+Gloria,0
+Isaiah,0
