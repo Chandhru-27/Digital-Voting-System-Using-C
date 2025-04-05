@@ -1,10 +1,7 @@
-# Digital-Voting-System-Using-C
-This Voting Module is a simple C-based voting system that allows users to cast votes, view results, and store voting data in a text file for persistence. The program features a menu-driven interface, making it easy to navigate. It ensures that all votes are recorded and counted accurately by reading and writing data to a text file.
-
-# Voting Module
+# Digital Voting System
 
 ## Overview
-This project implements a simple voting system in C that allows users to cast votes, view results, and manage voting data. The voting data is stored in a text file for persistence.
+This Voting Module is a simple C-based voting system that allows users to cast votes, view results, and store voting data in a text file for persistence. The program features a menu-driven interface, making it easy to navigate. It ensures that all votes are recorded and counted accurately by reading and writing data to a text file.
 
 ## Features
 - **User-friendly interface:** The program provides an easy-to-use menu-driven interface.
@@ -45,6 +42,8 @@ To run the program, use:
 - Implement authentication for secure voting.
 - Improve the file handling mechanism to enhance security.
 - Add a graphical user interface (GUI) for better usability.
+
+> Go through the DVS.pdf file in the repository
 
 ## Author
 Chandhru Loganathan
